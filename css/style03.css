@@ -1,0 +1,64 @@
+.bg{
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+    background-color: #F9FFD8;
+    display: flex;
+}
+*{
+    margin: 0;
+}
+
+.box{
+    background-color: #ffffff;
+    border-radius: 50px 50px 50px 50px;
+    width: 40.25rem;
+    height: 32.5625rem;
+    margin: 12.12rem 0rem 6.81rem 0rem;
+    text-align: center;
+    align-items: center;
+
+}
+.google {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    width: 32rem;
+    height: 2.5rem;
+    text-align: left;
+    background-color: skyblue;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+  }
+  .google span {
+    padding-left: 10.5rem;
+    color: rgb(255, 255, 255);
+  }
+  .userInput input {
+    background-color: #D9D9D9;
+    padding: 0.5rem 1.5rem;
+    width: 29rem;
+    border-radius: 10px;
+    border: none;
+  }
+  
+  .userInput p {
+    margin-top: 0.5rem;
+    margin-bottom: -1rem;
+    padding-left: 4.5rem;
+    text-align: left;
+  }
+  #remember{
+    padding: 1rem 24rem 0.5rem 0;
+}
+.signIn {
+    color: white;
+    font-size: 20px;
+    border-radius: 12px;
+    border: none;
+    width: 32rem;
+    height: 2.5rem;
+    background-color: #838383;
+    cursor: pointer;
+  
+  }
